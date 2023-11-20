@@ -1,17 +1,30 @@
 <h1 align="center">Hi 👋, I'm Gordon</h1>
-<h3 align="center">Full stack developer</h3>
+
+<h3 align="left">👨‍💻 About Me:</h3>
+Hello! I'm a passionate frontend developer with a unique journey that began in game development. Fascinated by games since my youth, I kickstarted my career as a game developer, where my intrigue for web technologies led me to explore React. This marked the start of my specialization in frontend development.
+
+<h3 align="left">🚀 Professional Journey:</h3>
+My career has been a thrilling ride from creating engaging data visualizations at TSC to leading the development of the Unified Advisor Portal at BlackRock. 
+
+<h3 align="left">💡 Skills & Expertise:</h3>
+Frontend development is my forte, especially using React. However, my curiosity for the latest trends in frontend frameworks has led me to gain experience in Svelte and Solidjs. Beyond just coding, I have a knack for AWS CI/CD, which I've leveraged in various small projects.
+
+<h3 align="left">🌐 Personal Projects:</h3>
+In my personal time, I explore the realms of full-stack development, often integrating game engines like PixiJS and Unity. These projects are a nod to my roots in game development and a testament to my belief in continuous learning.
+
+<h3 align="left">🎓 New Horizons:</h3>
+Lately, I've found a new interest in ML trading. It's an exciting field that combines my love for algorithms and the thrill of the trading world. I'm on a journey to delve deeper into this domain, hoping to blend my technical expertise with financial acumen.
+
+<h3 align="left">🤝 Collaboration & Community:</h3>
+I'm a firm believer in the power of collaboration and community. Sharing ideas, learning from others, and contributing to the tech community are aspects I deeply value.
+
+Feel free to reach out for collaborations, discussions on tech trends, or just a chat over coffee about the latest in frontend development!
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gordonwoon&label=Profile%20views&color=0e75b6&style=flat" alt="gordonwoon" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gordonwoon" alt="gordonwoon" /></a> </p>
 
-- 🌱 I’m currently learning **ML/Algorithm trading**
-
-- 💬 Ask me about **Latest frontend frameworks**
-
-- 📫 How to reach me **gordonwoon@live.com**
-
-- ⚡ Fun fact **I'm probably an Aspie**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
