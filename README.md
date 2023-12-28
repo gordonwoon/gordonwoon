@@ -13,10 +13,10 @@ Frontend development is my forte, especially using React. However, my curiosity 
 In my personal time, I explore the realms of full-stack development, often integrating game engines like PixiJS and Unity. These projects are a nod to my roots in game development and a testament to my belief in continuous learning.
 
 <h3 align="left">🎓 New Horizons:</h3>
-Lately, I've found a new interest in ML trading. It's an exciting field that combines my love for algorithms and the thrill of the trading world. I'm on a journey to delve deeper into this domain, hoping to blend my technical expertise with financial acumen.
+Lately, I've found a new interest in ML trading. It's an exciting field that combines algorithms and the thrill of the trading world. I'm on a journey to delve deeper into this domain, hoping to blend my technical expertise with financial acumen.
 
 <h3 align="left">🤝 Collaboration & Community:</h3>
-I'm a firm believer in the power of collaboration and community. Sharing ideas, learning from others, and contributing to the tech community are aspects I deeply value.
+Sharing ideas, learning from others, and contributing to the tech community are aspects I deeply value.
 
 Feel free to reach out for collaborations, discussions on tech trends, or just a chat over coffee about the latest in frontend development!
 
