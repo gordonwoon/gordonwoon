@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gordon</h1>
+<h1 align="center">👋</h1>
 
 <h3 align="left">👨‍💻 About Me:</h3>
 Hello! I'm a frontend developer with a unique journey that began in game development. Fascinated by games since my youth, I kickstarted my career as a game developer, where my intrigue for web technologies led me to explore React. This marked the start of my specialization in frontend development.
