@@ -1,25 +1,25 @@
 <h1 align="center">👋</h1>
 
 <h3 align="left">👨‍💻 About Me:</h3>
-Hello! I'm a frontend developer with a unique journey that began in game development. Fascinated by games since my youth, I kickstarted my career as a game developer, where my intrigue for web technologies led me to explore React. This marked the start of my specialization in frontend development.
+Hi, I'm a frontend developer with a background in game development. My career has taken me from data visualization at TSC to leading projects at BlackRock.
 
-<h3 align="left">🚀 Professional Journey:</h3>
-My career has been a thrilling ride from creating engaging data visualizations at TSC to leading the development of the Unified Advisor Portal at BlackRock. 
+<h3 align="left">🚀 Core Skills:</h3>
+Frontend Expertise: React (primary), Svelte, Solidjs
+DevOps: AWS CI/CD
+Exploration: ML/Algo Trading (actively learning)
 
-<h3 align="left">💡 Skills & Expertise:</h3>
-Frontend development is my forte, especially using React. However, my curiosity for the latest trends in frontend frameworks has led me to gain experience in Svelte and Solidjs. Beyond just coding, I have a knack for AWS CI/CD, which I've leveraged in various small projects.
+<h3 align="left">🔧 Professional Experience:</h3>
+BlackRock: Led development of the Unified Advisor Portal
+</br>
+TSC: Built engaging data visualizations
 
-<h3 align="left">🌐 Personal Projects:</h3>
-In my personal time, I explore the realms of full-stack development, often integrating game engines like PixiJS and Unity. These projects are a nod to my roots in game development and a testament to my belief in continuous learning.
-
-<h3 align="left">🎓 New Horizons:</h3>
-Lately, I've found a new interest in ML trading. It's an exciting field that combines algorithms and the thrill of the trading world. I'm on a journey to delve deeper into this domain, hoping to blend my technical expertise with financial acumen.
+<h3 align="left">🌱 Personal Projects:</h3>
+I enjoy full-stack development and often incorporate game engines like PixiJS and Unity into my personal projects.
 
 <h3 align="left">🤝 Collaboration & Community:</h3>
-Sharing ideas, learning from others, and contributing to the tech community are aspects I deeply value.
+I'm a firm believer in continuous learning and sharing knowledge within the tech community. I'm always open to connecting and collaborating!
 
-Feel free to reach out for collaborations, discussions on tech trends, or just a chat over coffee about the latest in frontend development!
-
+</br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gordonwoon&label=Profile%20views&color=0e75b6&style=flat" alt="gordonwoon" /> </p>
 
