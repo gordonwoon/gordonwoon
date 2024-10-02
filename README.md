@@ -1,23 +1,20 @@
 <h1 align="center">👋</h1>
 
 <h3 align="left">👨‍💻 About Me:</h3>
-Hi, I'm a frontend developer with a background in game development. My career has taken me from data visualization at TSC to leading projects at BlackRock.
-
-<h3 align="left">🚀 Core Skills:</h3>
-Frontend Expertise: React (primary), Svelte, Solidjs
-DevOps: AWS CI/CD
-Exploration: ML/Algo Trading (actively learning)
+I'm a frontend developer passionate about building interactive and user-centric digital experiences. My background in game development instilled in me a deep appreciation for intuitive design and engaging interfaces, which I bring to every project. While I specialize in the React ecosystem, I'm always keen to explore different frameworks and technologies.
 
 <h3 align="left">🔧 Professional Experience:</h3>
-BlackRock: Led development of the Unified Advisor Portal
+Frontend Developer at BlackRock: I played a key role in developing the Unified Advisor Portal, crafting responsive interfaces that empowered financial advisors.
 </br>
-TSC: Built engaging data visualizations
+</br>
+Data Visualization Specialist at TSC: I designed interactive data visualization tools, transforming complex data into clear and actionable insights.
 
-<h3 align="left">🌱 Personal Projects:</h3>
-I enjoy full-stack development and often incorporate game engines like PixiJS and Unity into my personal projects.
+
+<h3 align="left">🌱 Current Focus: Full-Stack and Beyond:</h3>
+Currently, I'm captivated by the world of full-stack development and the exciting possibilities of integrating game engines like PixiJS and Unity into web projects. I'm also delving into the realm of machine learning, particularly its applications in algorithmic trading.
 
 <h3 align="left">🤝 Collaboration & Community:</h3>
-I'm a firm believer in continuous learning and sharing knowledge within the tech community. I'm always open to connecting and collaborating!
+Feel free to dive into my projects and blog posts to learnd how I'm translating these passions into tangible solutions.
 
 </br>
 
