@@ -11,7 +11,7 @@ Data Visualization Specialist at TSC: I designed interactive data visualization 
 
 
 <h3 align="left">🌱 Current Focus: Full-Stack and Beyond:</h3>
-Currently, I'm captivated by the world of full-stack development and the exciting possibilities of integrating game engines like PixiJS and Unity into web projects. I'm also delving into the realm of machine learning, particularly its applications in algorithmic trading.
+Currently, I'm captivated by the world of full-stack development and the exciting possibilities of integrating game engines like PixiJS into web projects. I'm also exploring machine learning and how it can be applied in algorithmic trading.
 
 <h3 align="left">🤝 Collaboration & Community:</h3>
 Feel free to dive into my projects and blog posts to learnd how I'm translating these passions into tangible solutions.
