@@ -1,7 +1,7 @@
 <h1 align="center">👋</h1>
 
 <h3 align="left">👨‍💻 About Me:</h3>
-I'm a frontend developer passionate about building interactive and user-centric digital experiences. My background in game development instilled in me a deep appreciation for intuitive design and engaging interfaces, which I bring to every project. While I specialize in the React ecosystem, I'm always keen to explore different frameworks and technologies.
+Full Stack Developer specializing in frontend development and application optimization.
 
 <h3 align="left">🔧 Professional Experience:</h3>
 Frontend Developer at BlackRock: I played a key role in developing the Unified Advisor Portal, crafting responsive interfaces that empowered financial advisors.
